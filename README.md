@@ -41,11 +41,11 @@ Este proyecto es una aplicación interactiva que combina Streamlit y FastAPI par
    ```
 
 ## Ejecución
-1. Inicia el servidor FastAPI:
+1. Inicia el servidor FastAPI ubicado dentro de la carpeta /app:
    ```bash
-   uvicorn main:app --reload
+   fastapi run main.py
    ```
-2. Ejecuta la aplicación Streamlit:
+2. Ejecuta la aplicación Streamlit en la carpeta raiz del proyecto:
    ```bash
    streamlit run client.py
    ```
