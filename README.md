@@ -1,5 +1,10 @@
 # Web Scraping Assistant with FastAPI
 
+![scraper youtube](images/Screenshot 1.png)
+
+![scraper web](images/Screenshot 2.png)
+
+
 ## Descripción del Proyecto
 Este proyecto es una aplicación interactiva que combina Streamlit y FastAPI para permitir a los usuarios ingresar una URL o texto, extraer contenido relevante y generar un resumen utilizando un modelo de generación de texto. Además, incluye la opción de implementar el modelo Gemini para la generación de texto, aunque actualmente está comentado en el código.
 
