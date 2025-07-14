@@ -1,8 +1,8 @@
 # Web Scraping Assistant with FastAPI
 
-![scraper_yotube](images/Screenshot 2.png)
+![scraper_yotube](images/Screenshot_1.png)
 
-![scraper_web](images/Screenshot 2.png)
+![scraper_web](images/Screenshot_2.png)
 
 
 ## Descripción del Proyecto
