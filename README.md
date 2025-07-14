@@ -46,6 +46,7 @@ Este proyecto es una aplicación interactiva que combina Streamlit y FastAPI par
    ```
 
 ## Ejecución
+Cada uno de los archivos se ejecuta en terminales separadas
 1. Inicia el servidor FastAPI ubicado dentro de la carpeta /app:
    ```bash
    fastapi run main.py
