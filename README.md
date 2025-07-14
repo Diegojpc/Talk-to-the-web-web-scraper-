@@ -1,8 +1,8 @@
 # Web Scraping Assistant with FastAPI
 
-![scraper youtube](images/Screenshot 1.png)
+![images/Screenshot 2.png]
 
-![scraper web](images/Screenshot 2.png)
+![images/Screenshot 2.png]
 
 
 ## Descripción del Proyecto
