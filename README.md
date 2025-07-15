@@ -34,11 +34,11 @@ Este proyecto es una aplicación interactiva que combina Streamlit y FastAPI par
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Diegojpc/Talk-to-the-web-web-scraper-.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd <NOMBRE_DEL_DIRECTORIO>
+   cd Talk-to-the-web-web-scraper-
    ```
 3. Instala las dependencias necesarias:
    ```bash
